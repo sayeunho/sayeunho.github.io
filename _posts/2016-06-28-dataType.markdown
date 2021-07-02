@@ -3,7 +3,7 @@ layout: post
 title:  "데이터 타입에 대해서 알아보기"
 crawlertitle: Markdown sample
 summary: "Jekyll default page"
-date:   2021-06-27
+date:   2021-07-01
 categories: posts
 tags: 'jekyll'
 author: eunho
