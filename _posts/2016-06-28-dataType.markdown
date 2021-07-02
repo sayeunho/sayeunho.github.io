@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "데이터 타입"
-crawlertitle: "How to use jekyll"
+title:  "데이터 타입에 대해서 알아보기"
+crawlertitle: Markdown sample
 summary: "Jekyll default page"
-date:   2016-06-28 23:09:47 +0700
+date:   2021-06-27
 categories: posts
 tags: 'jekyll'
-author: redVi
+author: eunho
 ---
 ## 데이터 타입
 
