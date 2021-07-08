@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title:  property
+title:  값복사
 crawlertitle: Markdown sample
 summary: Description for this article
 date:   2021-07-07
@@ -13,6 +13,9 @@ bg: "african-penguins.jpg"
 
 
 ### 값복사
+
+
+
 - 원시값은 값을 복사할때 복사된 값을 다른 메모리에 할당 하기 때문에 원래의 값과 복사된 값이 서로에게 영향을 미치지 않음
 - 참조값은 변수가 객체의 주소를 가리키는 값이기 때문에 복사된 값(주소)이 같은 값을 가리킨다.
 {% highlight js %}
