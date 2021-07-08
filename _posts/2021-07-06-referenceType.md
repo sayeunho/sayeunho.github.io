@@ -18,8 +18,9 @@ var b = a ;
 b = 2;
 console.log(a); // 1
 
-> a라는 값이 가지고 있는 값 1을 복사해서 
+> a라는 값이 가지고 있는 값 1을 복사해서 <br>
 b라는 값이 똑같이 1이라는 값을 가지고 있음.
+그렇다고 a가 2를 가지고 있지는 않다.
 
 ### Reference Type(참조값)
 
@@ -37,7 +38,7 @@ a에 오브젝트를 할당하면 a에 오브젝트를 가르키는 주소값을
 자바스크립트에서 변수가 이동을 할때는 항상 값을 복사하게 된다. 
 복사하는 대상이 값 전체인지 아니면 해당값을 가르키는 주소값을 복사하게된다.
 
-![ex_screenshot](./assets/images/참조.JPG)
+![ex_screenshot](/assets/images/참조.JPG)
 
 
 {% highlight js %}
